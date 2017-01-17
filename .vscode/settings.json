@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    // Controls the delay in ms after which quick suggestions will show up
+    "editor.quickSuggestionsDelay": 500,
+
+    // Insert snippets when their prefix matches. Works best when 'quickSuggestions' aren't enabled.
+    "editor.tabCompletion": true,
+
+    // Controls if quick suggestions should show up or not while typing
+    "editor.quickSuggestions": false
+}
