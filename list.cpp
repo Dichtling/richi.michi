@@ -13,6 +13,7 @@ public:
     head->key = c;
     tail = head;
   }
+  List (): head(0), tail(0) {};
   void push (char _key);
   bool pop_front ();
   bool pop_mid (char del);
